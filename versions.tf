@@ -14,7 +14,7 @@ terraform {
       source = "hashicorp/crash"
     }
   }
- }
+
 
   required_version = ">= 0.14.0"
 }
